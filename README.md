@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgit.uwaterloo.ca%2Fj22yi%2Fcfm301-financial-data-analytics&count_bg=%23FFBC93&title_bg=%238FC2FF&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Financial Data Analytics
+# AlphaAnalytics : Discovering Alpha through Financial Data Analysis
 
 ## Preface
 

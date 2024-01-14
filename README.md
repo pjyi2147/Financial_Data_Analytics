@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgit.uwaterloo.ca%2Fj22yi%2Fcfm301-financial-data-analytics&count_bg=%23FFBC93&title_bg=%238FC2FF&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# AlphaAnalytics : Discovering Alpha through Financial Data Analysis
+# Discovering Alpha through Financial Data Analysis
 
 ## Preface
 
-This repository is a collection of solutions for financial data analytics.
+This repository is a collection of financial data analytic methods utilizing Python, WRDS, CAPM and Fama-french model.
 
 ### Languages & Technologies used:
 

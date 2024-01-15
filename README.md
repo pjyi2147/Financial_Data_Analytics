@@ -67,3 +67,12 @@ Data source from WRDS and CRSP.
 * Conduct Fama-MacBeth monthly cross sectional test
 * Construct quintile portfolio for all NYSE/Nasday stock
     - Data cleaning: remove stock price less than $5 or market cap less than $100 mil
+ 
+#### Project 
+
+link: [link](https://git.uwaterloo.ca/j22yi/cfm-final)
+
+* Extracted valuable alpha by formatting new factors from raw financial data from WRDS and Compustat
+* Evaluated the effectiveness of factor portfolios by validating the performances using CAPM and Fama-French models
+* Created a profitable trading strategy by applying linear regression and machine learning models
+

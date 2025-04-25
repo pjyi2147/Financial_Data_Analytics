@@ -1,4 +1,4 @@
-![Badge](https://hits.patrickyi.xyz/api/hit?url=https%3A%2F%2Fgithub.com%2Fpjyi2147%2Fmnist-visualizer&label=Visits&icon=github&color=%2375b798) 
+![Badge](https://hits.patrickyi.xyz/api/hit?url=https%3A%2F%2Fgithub.com%2Fpjyi2147%2FFinancial_Data_Analytics&label=Visits&icon=github&color=%23de5c9d) 
 
 # Discovering Alpha through Financial Data Analysis
 
